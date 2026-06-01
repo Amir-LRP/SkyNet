@@ -134,6 +134,19 @@ python -m playwright install
 
 ---
 
+## 🙌 Credits & Contact
+
+Created and maintained by SKYNET team.
+
+Feel free to follow or contact:
+
+- 📩 Telegram: @Amir_Lrp        
+- 📸 Instagram: @Amir_Lrp      
+- 🐦 X (Twitter): @Amir_Lrp  
+- ▶️ YouTube: @SkyNet_Project  
+
+---
+
 ## 🛰 SKYNET
 
 Autonomous AI system for real-world computer control, automation, and intelligent task execution.
