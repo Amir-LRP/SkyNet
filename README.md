@@ -37,7 +37,7 @@
 ## 🚀 Installation
 
 ```bash
-git clone <repo>
+git clone [<repo>](https://github.com/Amir-LRP/SkyNet.git)
 cd SKYNET
 
 python setup.py
