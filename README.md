@@ -140,9 +140,9 @@ Created and maintained by SKYNET team.
 
 Feel free to follow or contact:
 
-- 📩 Telegram: @Amir_Lrp        
+- 📩 Telegram: @Amir_Lrp , @Project_Sky_Net       
 - 📸 Instagram: @Amir_Lrp      
-- 🐦 X (Twitter): @Amir_Lrp  
+- 🐦 X (Twitter): @Amir_Lrp  , @MainPRo_Skynet
 - ▶️ YouTube: @SkyNet_Project  
 
 ---
