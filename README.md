@@ -141,7 +141,7 @@ Created and maintained by SKYNET team.
 Feel free to follow or contact:
 
 - 📩 Telegram: @Amir_Lrp , @Project_Sky_Net       
-- 📸 Instagram: @Amir_Lrp      
+- 📸 Instagram: @Amir_Lrp   , @SkyNet_Project
 - 🐦 X (Twitter): @Amir_Lrp  , @MainPRo_Skynet
 - ▶️ YouTube: @SkyNet_Project  
 
